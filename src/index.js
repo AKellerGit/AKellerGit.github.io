@@ -8,4 +8,4 @@ const App = () => {
   return <div><Header/></div>
 }
 
-ReactDOM.render(<App/>, document.querySelector('#root'));
+ReactDOM.render(<App/>, document.querySelector('root'));
