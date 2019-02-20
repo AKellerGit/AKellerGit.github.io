@@ -5,16 +5,7 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
- background-image:
-    linear-gradient(
-      to right, 
-      red, #f06d06
-    );
-    
-}
-
-button{
-	cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 code {
